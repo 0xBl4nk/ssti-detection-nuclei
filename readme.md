@@ -9,4 +9,4 @@ nuclei -u http://localhost:5000/vulnerable -t ssti-detection-template.yaml -var 
 
 ---
 
-![example-image](https://i.imgur.com/SfBjaHe.png) 
+![example-image](https://i.imgur.com/xvvpayr.png) 
